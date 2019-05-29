@@ -1,0 +1,47 @@
+﻿*title Catch-22 Simulator
+*author Sisira Mandapaka
+*scene_list
+  startup
+  scheisslistens
+  metcalfscreams
+
+*create firstroute 0
+*create secondroute 0
+*create thirdroute 0
+*create fourthroute 0
+
+You are Clevinger, an idealistic, Harvard-educated young man. You've won prizes in scholarship for just about everything, and the only reason you haven't won prizes in scholarship for everything else is that you were too busy signing, challenging, and circulating petitions, joining and leaving discussion groups and youth congresses, and so much more. Everyone from your professors to your classmates know you, the gangling, gawky, nervous but feverishly impassioned genius, and they know you're destined for great things in academia.
+
+In short, you're one of those people with lots of intelligence and absolutely no wisdom or common sense.
+
+So, Clevinger, welcome to the Mediterranean island of Pianosa, location of the US Army Air Corps 256th Bomber Squadron Base during World War II. This is a world governed by irrationality, incompetency, cynicism, and absolutely no morality whatsoever. Many logic traps and paradoxes designed to the authorities' sole benefit are lurking about, waiting to snare you.
+
+Your objective is to navigate perhaps the most strange, hellish situation in your career thus far, and try to come out of it with your wits about you. Good luck, because you're going to need it.
+
+*page_break
+
+It's a Saturday morning, and there's going to be another parade tomorrow afternoon. Lieutenant Scheisskopf, the leader of your squadron of aviation cadets, is obsessed with these parade competitions, but is frustrated because the men never win any pennants (which mean nothing anyway).
+
+You fancy yourself wise, and you feel it's unfair to not let the men elect their own cadet officers, instead of having Scheisskopf pick who he wants.
+
+Scheisskopf is lamenting his woes loudly in the yard. "I want someone to tell me, " he beseeches the group mournfully. "I want to be told if any of it is my fault!"
+
+"He wants someone to tell him," you whisper to your friend Yossarian, the jaded, traumatized, but deeply emotional pilot.
+
+"Don't be a dope," he whispers back. "He'll hate you. To his dying day he'll hate you."
+
+Scheisskopf looks so pitiful, and he's clearly asking for help. What harm could it do? 
+
+*choice
+  #Tell Scheisskopf your thoughts. Letting the men vote will benefit everyone - you’re doing the right thing here. Maybe he’ll even praise you?
+        *set firstroute +10
+        *goto_scene scheisslistens
+  #Tell Scheisskopf. He’s your superior officer, and he’s asking for his subordinates to tell him, so duty compels you to tell him.
+        *set secondroute +10
+        *goto_scene scheisslistens
+  #Tell Scheisskopf. It’s completely unjust to have the officers not elected by the cadets themselves, and you’re not afraid to speak up. Someone’s got to.
+        *set thirdroute +10
+        *goto_scene scheisslistens
+  #Consider Yossarian’s words - he wouldn’t be telling you not to do it for no reason. He makes marginally less sense than Scheisskopf seemingly does, and when the officers make sense, something is wrong.
+        *set fourthroute +10
+        *goto_scene scheisslistens

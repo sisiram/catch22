@@ -12,8 +12,7 @@ That evening, Scheisskopf allows the squadron to vote in their own officers. The
 
 Drunk on victory, Scheisskopf does away with the parades altogether so nobody can ever top him. 
 
-You’re called in the very next day to talk to the intimidating, mysterious Action Board, led by Major Metcalf - First Lieutenant Scheisskopf has laid charges against you. Charges of 
-conspiring to advocate overthrow of cadet officers" Scheisskopf appointed. 
+You’re called in the very next day to talk to the intimidating, mysterious Action Board, led by Major Metcalf - First Lieutenant Scheisskopf has laid charges against you. Charges of "conspiring to advocate overthrow of cadet officers" Scheisskopf appointed. 
 
 *choice
   #Step gingerly into the room. You’re going to plead innocent to the charges, but you’re kind of nervous and want to be cautious.

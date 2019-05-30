@@ -238,4 +238,4 @@ So what's to become of you now?
 
 *page_break
 
-*goto_scene ending
+*goto_scene termino

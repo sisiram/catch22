@@ -22,6 +22,8 @@ Your objective is to navigate perhaps the most strange, hellish situation in you
 
 It's a Saturday morning, and there's going to be another parade tomorrow afternoon. Lieutenant Scheisskopf, the leader of your squadron of aviation cadets, is obsessed with these parade competitions, but is frustrated because the men never win any pennants (which mean nothing anyway).
 
+The reason the men never win is because none of them want to do the parade in the first place, but morale is also low because they want to have a say in who their cadet officers are.
+
 You fancy yourself wise, and you feel it's unfair to not let the men elect their own cadet officers, instead of having Scheisskopf pick who he wants.
 
 Scheisskopf is lamenting his woes loudly in the yard. "I want someone to tell me, " he beseeches the group mournfully. "I want to be told if any of it is my fault!"

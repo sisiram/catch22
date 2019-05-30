@@ -1,0 +1,70 @@
+*if (((secondroute > firstroute) and (secondroute > thirdroute)) and (secondroute > fourthroute))
+        
+        You completely surrender and give the officers what they want. The Action Board smiles grimly at you. "The only way, Clevinger," says the old colonel. "You understand, don't you?" 
+
+        You don't. 
+        
+        They court-martial you and absolutely humiliate you, then strip you of your rank in court. They invite the whole squadron to watch. 
+        
+        They say it's because it'll spark some discipline and some bloodlust for the next mission, but really, it's just so that the officers can have a day off to place some bets. 
+        
+        First Lieutenant Scheisskopf takes a "special interest" in your case, and with an unctuous smile, installs you in the rear of his plane. He uses it to make himself look magnanimous, and thus receives another promotion.
+        
+        You are killed with thousands of other innocent civilians when the incompetent Scheisskopf tries to adjust the airlock and accidentally drops a bomb out of the back. 
+        
+        Scheisskopf is lightly scraped by shrapnel, and receives a Purple Heart. 
+
+        He gives the eulogy at your funeral and is promoted again for his bravery in the face of warfare when the colonel is brought to tears by the speech.
+
+
+        There are multiple endings: try again if you think you can do better! 
+	
+        *finish
+
+*elseif (((thirdroute > firstroute) and (secondroute < thirdroute)) and (thirdroute > fourthroute))
+
+        You go out standing for your principles. 
+        
+        You are completely obstinate and pull your gun on the officers that come to take you away. 
+        
+        This gives them an excuse to shoot out your kneecaps, something they've always wanted to try because they've seen it in the movies, and they toss you in a makeshift cell. 
+
+        You bleed there in agonizing pain because you are only fed chocolate covered cotton and not tended to, so when your legs get infected, you succumb quickly. You're grateful for the sweet release of death.
+ 
+
+        There are multiple endings: try again if you think you can do better! 
+
+        *finish
+
+*elseif (((fourthroute > firstroute) and (fourthroute > secondroute)) and (thirdroute < fourthroute))
+
+        You've adapted to your surroundings and played along with the twisted mind games. 
+
+        You've unnerved the Action Board and the rest of them.
+
+        They're either convinced that you are truly insane, or that you really pose a threat to their power scheme. 
+
+        You're overcome with joy: you're discharged, sitting in the plane, ready to leave for an airport to catch a flight to Boston. 
+
+        You've been in contact with your old professors at Harvard, and for the first time since you left home, you start to feel hopeful. 
+
+        Then, in a tragic accident, your entire plane gets smashed into by Aarfy in a freak accident because he has gone off the rails completely. 
+
+        There are no survivors, including you. 
+
+        
+        There are multiple endings: try again if you think you can do better! 
+
+        *finish
+*else 
+        
+        By the Action Board's logic, you're guilty, otherwise you would not have been accused.
+        
+        So: you get sentenced to walk fifty-seven punishment tours, which means fifty minutes on the weekend spent pacing back and forth in front of the provost marshal's building with a ton of an unloaded rifle on your shoulder.
+
+        A little while later, you mysteriously disappear in a milk run (a non-threatening mission). Nobody ever figures out what becomes of you.  
+        
+        
+        There are multiple endings: try again if you think you can do better! 
+
+        *finish

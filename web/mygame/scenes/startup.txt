@@ -20,7 +20,7 @@ Your objective is to navigate perhaps the most strange, hellish situation in you
 
 *page_break
 
-It's a Saturday morning, and there's going to be another parade tomorrow afternoon. Lieutenant Scheisskopf, the leader of your squadron of aviation cadets, is obsessed with these parade competitions, but is frustrated because the men never win any pennants (which mean nothing anyway).
+It's a Saturday morning, and there's going to be another parade tomorrow afternoon. Lieutenant Scheisskopf, the leader of your squadron of aviation cadets, is obsessed with these parade competitions, but is frustrated because the men never win any pennants. The pennants mean nothing anyway, there's no money and no reward. Just a ribbon.
 
 The reason the men never win is because none of them want to do the parade in the first place, but morale is also low because they want to have a say in who their cadet officers are.
 
